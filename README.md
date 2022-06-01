@@ -1,2 +1,2 @@
 # Projeto01-CursoSerFrontEnd
- primeiro projeto do curso serfrontend
+ Primeiro projeto do curso serfrontend
